@@ -1,0 +1,13 @@
+{
+  "name": "lawnchair",
+  "repo": "simonwade/lawnchair",
+  "description": "A lightweight clientside JSON document store.",
+  "version": "0.0.1",
+  "keywords": ["persistance"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "lib/lawnchair.js"
+  ]
+}
